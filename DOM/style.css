@@ -1,0 +1,60 @@
+/* #heading{
+    color:blue;
+    text-decoration:solid;
+    background-color: rgb(125, 228, 147);
+    text-align: center;
+    border: 10px;
+
+}
+.head{
+    color:rgb(100, 19, 19);
+    background-color: beige;
+}
+p{
+    color:rgb(27, 27, 97);
+    text-decoration:solid;
+    background-color: rgb(160, 203, 169);
+    text-align: center;
+    border: 10px; 
+}
+button{
+    background-color:purple;
+    color:rgb(243, 243, 174)
+}  */
+
+body{
+    background-color: rgb(255, 255, 255);
+    /* color:black; */
+    }
+#bx{
+display:rgb(138, 84, 84);    
+height:200px;
+width:150px;
+background-color: rgb(19, 120, 113);
+border:1px solid black;
+border-color: rgb(207, 212, 228);
+color:aliceblue
+}
+.parag{
+    color: red;
+}
+   
+#div1{
+   height: 100px;
+   width:100px;
+   background-color: dodgerblue;
+   color: white;
+   border: 1px solid black;
+
+}
+
+/* Practice question toggle button   */
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color:black;
+}
+
